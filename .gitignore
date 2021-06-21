@@ -6,7 +6,6 @@
 env/
 venv/
 .vscode/
-env*
 dist/
 build/
 *.egg
